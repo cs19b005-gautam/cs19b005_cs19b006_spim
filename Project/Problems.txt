@@ -1,0 +1,16 @@
+1."The simulator should support atleast 4 KB of memory."()
+	
+	Doesn't simulator support 4 KB easily?  ()
+	If no how to do then
+
+	SOLUTION:
+
+2.The simulator should read in an assembly file, execute the instructions, and in the end display
+the contents of the registers, and the memory.
+
+	How to perform Memory display?(prority level ********)
+
+3.Code should be maintained using git, and uploaded on github. Keep the github repo private.
+
+4.Bubble Sort?
+

@@ -1,0 +1,24 @@
+﻿  ConsoleApplication1.cpp
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42,17): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(99,19): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(123,18): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(156,21): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(373,16): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(391,11): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(413,11): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(430,11): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(445,11): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(462,11): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(477,11): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(581,16): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(603,11): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(622,11): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(643,20): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(640,6): warning C4101: 'val': unreferenced local variable
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(669,16): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(736,25): warning C4018: '<': signed/unsigned mismatch
+C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(104): warning C4715: 'get_data_memory_index': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Gautam\4th Sem\Computer Organization Laboratory\Project\Project\ConsoleApplication1\Debug\ConsoleApplication1.exe

@@ -1,0 +1,16 @@
+File Handling in C++:   ✔✔
+
+	(4-5 hrs)
+
+	
+
+GUI(Graphic User Interface):	=> A user frinedly simulator has to be 
+
+	??
+
+
+GIT:				=> For submitting projects
+
+
+
+Exception Handling in C++ ✔	=> Need to know types of errors in MIPS
